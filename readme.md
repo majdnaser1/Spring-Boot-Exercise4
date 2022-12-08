@@ -1,28 +1,35 @@
 ## Create Employees management software
 Employees class: ID , name , age , onLeave, employmentYear ,annualLeave
 
-Validation : ID :
+Validation :
+
+- ID :
 
 Cannot be null
 Length more than 2
-name :
+
+- name :
 
 Cannot be null
 Length more than 4
-age :
+
+- age :
 
 Cannot be null
 It has to be number
 It must be more than 25
-onLeave :
+
+- onLeave :
 
 must be false
-employmentYear :
+
+- employmentYear :
 
 Cannot be null
 it has to be number
 must be a valid year
-annualLeave:
+
+- annualLeave:
 
 Cannot be null
 it has to be number
